@@ -5,7 +5,7 @@
 ## 安装
 
 ```sh
-dsh plugin add github:YOUR_USERNAME/dsh-appearance
+dsh plugin add github:lgg415515/dsh-appearance
 ```
 
 装完重启一次 DSH，再 `Ctrl+Shift+R` 硬刷新。
